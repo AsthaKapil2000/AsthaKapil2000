@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Astha Kapil</h1>
 <h3 align="center">Highly motivated Computer Science Engineer, who enjoys uncovering new ideas and seeking for new opportunities.</h3>
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **.NET Full Stack**
 
 - 💬 Ask me about **Data Science**
 
